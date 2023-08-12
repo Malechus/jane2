@@ -1,9 +1,9 @@
-##J.A.N.E.
+## J.A.N.E.
 ##or Just Another Non-human Entity
 
 This is a more advanced version of [J.A.N.E.'s](https://www.github.com/malechus/jane) original concept, adding quite a lot of functionality.
 
-###Standards:
+### Standards:
 - Global variables should be ALL_CAPS
 - Public, class level variables should be PascalCase
 - Private/readonly/protected class level variables should be camelCase
